@@ -1,0 +1,1171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\WorkSpace\AgentNetWork\Deploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Avarter/background/99.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/background/backgroud.jpg">
+      <publishTime>08/06/2016 00:40:37</publishTime>
+    </File>
+    <File Include="Avarter/background/header-bg.png">
+      <publishTime>10/18/2016 17:24:26</publishTime>
+    </File>
+    <File Include="Avarter/background/mobile-apps.jpg">
+      <publishTime>09/12/2016 07:15:15</publishTime>
+    </File>
+    <File Include="Avarter/background/s.jpg">
+      <publishTime>09/12/2016 07:15:23</publishTime>
+    </File>
+    <File Include="Avarter/background/wood.jpg">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/background/xxxx.jpg">
+      <publishTime>09/12/2016 07:18:05</publishTime>
+    </File>
+    <File Include="Avarter/background/xxxxxxx.jpg">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/ic_control/left.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/ic_control/list.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/ic_control/logo.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/ic_control/right.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/conv30.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/conv40.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/conv50.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/heart30.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/heart40.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/heart50.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/m1.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/m2.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/m3.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/m4.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/m5.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/people35.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/people45.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/people55.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/ic_map/pin.png">
+      <publishTime>10/15/2016 00:35:18</publishTime>
+    </File>
+    <File Include="Avarter/image/checklist4.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/closed.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/cloud179.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/csv1.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/delete97.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/gear39.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/globe41.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/graph.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/group44.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/home.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/house187.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/list.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/logo.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/male80.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/minussign2.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/move12.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/move13.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/move18.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/move19.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/noPhoto.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/open161.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/pencil43.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/people.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/progress.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/question.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/question55.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/settings.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/settings38.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/sign4.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/sms.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/sms1.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/tachometer1.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/test.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/image/worldgrid.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/logo.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/logo/bg_logo.png">
+      <publishTime>10/18/2016 18:16:55</publishTime>
+    </File>
+    <File Include="Avarter/logo/logo.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/logo/logon.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/logo/micro_leveragex.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/logo/miliz.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/logo/milizo.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/logo/paycabins.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/logo/paycabinxx.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/logo/swiftpay.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/operational-analytics-icon.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/person.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/personz.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/banknotes-xl.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/check.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/checklist4.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/checkWT.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/closed.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/cloud179.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/configuration.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/configuration2.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/csv1.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/delete97.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/down.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/fund.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/gear39.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/globe-xl.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/globe41.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/graph.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/group44.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/home.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/house187.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/icon-arrowup.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/icon_logo.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/Increasing-Chart-1_48px.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/list.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/logo.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/male80.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/minussign2.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/move12.png">
+      <publishTime>09/28/2016 22:45:56</publishTime>
+    </File>
+    <File Include="Avarter/_images/move13.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/move18.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/move19.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/noPhoto.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/noPhoton.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/pencil43.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/people.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/progress.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/question.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/question55.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/report-2-xl.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/reports.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/reportss.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/Sale-Sign_48px.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/settings-10-xl.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/settings.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/settings38.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/sign4.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/sms1.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/spartial.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/tachometer1.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/test.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/transaction.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/transactionreport.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/uncheck.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/uncheckWT.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/wallet-3-xl.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/wallet.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="Avarter/_images/wallets.png">
+      <publishTime>09/28/2016 22:45:57</publishTime>
+    </File>
+    <File Include="bin/af/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:06</publishTime>
+    </File>
+    <File Include="bin/AgentNetworkManagement.Business.dll">
+      <publishTime>01/18/2019 10:55:29</publishTime>
+    </File>
+    <File Include="bin/AgentNetworkManagement.Business.dll.config">
+      <publishTime>12/16/2018 21:48:04</publishTime>
+    </File>
+    <File Include="bin/AgentNetworkManagement.Business.pdb">
+      <publishTime>01/18/2019 10:55:29</publishTime>
+    </File>
+    <File Include="bin/AgentNetworkManagement.Web.dll">
+      <publishTime>01/18/2019 10:55:31</publishTime>
+    </File>
+    <File Include="bin/AgentNetworkManagement.Web.pdb">
+      <publishTime>01/18/2019 10:55:31</publishTime>
+    </File>
+    <File Include="bin/AgentNetworkManagement.Web.XmlSerializers.dll">
+      <publishTime>01/18/2019 10:55:32</publishTime>
+    </File>
+    <File Include="bin/AgentNetworkManager.Domain.dll">
+      <publishTime>01/18/2019 10:55:28</publishTime>
+    </File>
+    <File Include="bin/AgentNetworkManager.Domain.dll.config">
+      <publishTime>12/16/2018 21:48:03</publishTime>
+    </File>
+    <File Include="bin/AgentNetworkManager.Domain.pdb">
+      <publishTime>01/18/2019 10:55:28</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/22/2013 08:43:40</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>02/22/2013 08:43:40</publishTime>
+    </File>
+    <File Include="bin/ar/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:08</publishTime>
+    </File>
+    <File Include="bin/bg/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:08</publishTime>
+    </File>
+    <File Include="bin/bn-BD/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:08</publishTime>
+    </File>
+    <File Include="bin/cs/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:10</publishTime>
+    </File>
+    <File Include="bin/da/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:10</publishTime>
+    </File>
+    <File Include="bin/de/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:10</publishTime>
+    </File>
+    <File Include="bin/Echenim.Nine.dll">
+      <publishTime>01/18/2019 10:55:27</publishTime>
+    </File>
+    <File Include="bin/Echenim.Nine.pdb">
+      <publishTime>01/18/2019 10:55:27</publishTime>
+    </File>
+    <File Include="bin/el/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:10</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/es/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:12</publishTime>
+    </File>
+    <File Include="bin/fa/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:12</publishTime>
+    </File>
+    <File Include="bin/fi-FI/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:12</publishTime>
+    </File>
+    <File Include="bin/fr-BE/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:14</publishTime>
+    </File>
+    <File Include="bin/fr/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:14</publishTime>
+    </File>
+    <File Include="bin/he/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:14</publishTime>
+    </File>
+    <File Include="bin/hr/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:14</publishTime>
+    </File>
+    <File Include="bin/hu/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:16</publishTime>
+    </File>
+    <File Include="bin/Humanizer.dll">
+      <publishTime>07/04/2016 01:29:20</publishTime>
+    </File>
+    <File Include="bin/Humanizer.pdb">
+      <publishTime>07/04/2016 01:29:20</publishTime>
+    </File>
+    <File Include="bin/id/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:16</publishTime>
+    </File>
+    <File Include="bin/it/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:16</publishTime>
+    </File>
+    <File Include="bin/ja/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:18</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>01/20/2016 02:08:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>04/03/2015 17:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>04/03/2015 17:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>04/03/2015 17:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/13/2015 13:16:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>02/13/2015 13:16:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>02/13/2015 13:16:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>02/13/2015 13:16:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>02/13/2015 13:16:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>02/13/2015 13:16:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/23/2012 15:23:58</publishTime>
+    </File>
+    <File Include="bin/nb-NO/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:18</publishTime>
+    </File>
+    <File Include="bin/nb/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:18</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 20:33:56</publishTime>
+    </File>
+    <File Include="bin/nl/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:20</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/27/2012 13:00:52</publishTime>
+    </File>
+    <File Include="bin/PagedList.dll">
+      <publishTime>01/14/2016 03:46:54</publishTime>
+    </File>
+    <File Include="bin/PagedList.Mvc.dll">
+      <publishTime>01/14/2016 03:46:56</publishTime>
+    </File>
+    <File Include="bin/pl/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:20</publishTime>
+    </File>
+    <File Include="bin/pt/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:20</publishTime>
+    </File>
+    <File Include="bin/ro/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/ru/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:22</publishTime>
+    </File>
+    <File Include="bin/sk/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:22</publishTime>
+    </File>
+    <File Include="bin/sl/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:24</publishTime>
+    </File>
+    <File Include="bin/sr-Latn/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:24</publishTime>
+    </File>
+    <File Include="bin/sr/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:24</publishTime>
+    </File>
+    <File Include="bin/sv/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:26</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 04:03:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/tr/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:26</publishTime>
+    </File>
+    <File Include="bin/uk/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:26</publishTime>
+    </File>
+    <File Include="bin/uz-Cyrl-UZ/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:26</publishTime>
+    </File>
+    <File Include="bin/uz-Latn-UZ/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:28</publishTime>
+    </File>
+    <File Include="bin/vi/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:28</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/10/2013 17:28:38</publishTime>
+    </File>
+    <File Include="bin/zh-CN/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:28</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:30</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Humanizer.resources.dll">
+      <publishTime>07/04/2016 01:29:30</publishTime>
+    </File>
+    <File Include="Content/animate.css">
+      <publishTime>10/27/2016 15:03:33</publishTime>
+    </File>
+    <File Include="Content/appcss/content.css">
+      <publishTime>10/27/2016 18:01:52</publishTime>
+    </File>
+    <File Include="Content/appcss/menue.css">
+      <publishTime>10/27/2016 18:01:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>09/28/2016 22:45:22</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>09/28/2016 22:45:22</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>09/28/2016 22:45:22</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>09/28/2016 22:45:22</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>12/16/2018 21:46:23</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>09/28/2016 22:45:22</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>12/16/2018 21:46:23</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>09/28/2016 22:45:22</publishTime>
+    </File>
+    <File Include="Content/css/layout.css">
+      <publishTime>09/28/2016 22:45:18</publishTime>
+    </File>
+    <File Include="Content/css/print.css">
+      <publishTime>09/28/2016 22:45:18</publishTime>
+    </File>
+    <File Include="Content/css/reporter.css">
+      <publishTime>09/28/2016 22:45:18</publishTime>
+    </File>
+    <File Include="Content/css/reset.css">
+      <publishTime>09/28/2016 22:45:18</publishTime>
+    </File>
+    <File Include="Content/css/style.css">
+      <publishTime>09/28/2016 22:45:18</publishTime>
+    </File>
+    <File Include="Content/css/style_reporter.css">
+      <publishTime>09/28/2016 22:45:18</publishTime>
+    </File>
+    <File Include="Content/cssx/layout.css">
+      <publishTime>09/28/2016 22:45:19</publishTime>
+    </File>
+    <File Include="Content/cssx/print.css">
+      <publishTime>09/28/2016 22:45:19</publishTime>
+    </File>
+    <File Include="Content/cssx/reporter.css">
+      <publishTime>09/28/2016 22:45:19</publishTime>
+    </File>
+    <File Include="Content/cssx/reset.css">
+      <publishTime>09/28/2016 22:45:19</publishTime>
+    </File>
+    <File Include="Content/cssx/style-login-registration.css">
+      <publishTime>09/28/2016 22:45:19</publishTime>
+    </File>
+    <File Include="Content/cssx/style.css">
+      <publishTime>10/27/2016 18:15:52</publishTime>
+    </File>
+    <File Include="Content/cssx/tablestyle.css">
+      <publishTime>09/28/2016 22:45:19</publishTime>
+    </File>
+    <File Include="Content/cssx/Tstyle.css">
+      <publishTime>10/21/2016 08:21:17</publishTime>
+    </File>
+    <File Include="Content/font-awesome.css">
+      <publishTime>12/16/2018 21:46:16</publishTime>
+    </File>
+    <File Include="Content/font-awesome.min.css">
+      <publishTime>12/16/2018 21:46:16</publishTime>
+    </File>
+    <File Include="Content/PagedList.css">
+      <publishTime>12/16/2018 21:46:43</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>10/27/2016 18:33:33</publishTime>
+    </File>
+    <File Include="Content/site.less">
+      <publishTime>10/27/2016 15:06:15</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>09/28/2016 22:12:55</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>12/16/2018 21:46:15</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>12/16/2018 21:46:15</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>12/16/2018 21:46:15</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>12/16/2018 21:46:15</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>12/16/2018 21:46:15</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>12/16/2018 21:46:15</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/16/2018 21:46:23</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/16/2018 21:46:23</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/16/2018 21:46:23</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/16/2018 21:46:23</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/28/2016 22:12:55</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/30/2016 14:03:42</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>12/16/2018 21:46:23</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>12/16/2018 21:46:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>12/16/2018 21:46:20</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>12/16/2018 21:46:20</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>12/16/2018 21:46:20</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.2.2.js">
+      <publishTime>09/28/2016 22:47:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.2.2.min.js">
+      <publishTime>09/28/2016 22:47:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.2.2.min.map">
+      <publishTime>09/28/2016 22:47:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>12/16/2018 21:46:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>12/16/2018 21:46:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>12/16/2018 21:46:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>12/16/2018 21:46:27</publishTime>
+    </File>
+    <File Include="Scripts/js/bootstrap.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/js/canvas-to-blob.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/js/load-image.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/js/valuechain.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/1_jquery-1.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/canvas-to-blob.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery-ui-1.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery_002.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery_003.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery_004.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery_005.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery_006.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery_007.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery_008.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/jquery_009.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/jss/load-image.js">
+      <publishTime>09/28/2016 22:46:57</publishTime>
+    </File>
+    <File Include="Scripts/mapjs/markerclusterer.js">
+      <publishTime>10/20/2016 07:05:54</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>12/16/2018 21:46:32</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>09/28/2016 22:47:01</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>12/16/2018 21:46:44</publishTime>
+    </File>
+    <File Include="Scripts/respond.matchmedia.addListener.js">
+      <publishTime>09/28/2016 22:47:01</publishTime>
+    </File>
+    <File Include="Scripts/respond.matchmedia.addListener.min.js">
+      <publishTime>09/28/2016 22:47:01</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>12/16/2018 21:46:43</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>12/16/2018 21:46:32</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.ChangePwdResponse.datasource">
+      <publishTime>05/17/2017 00:15:37</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.ContactInfo.datasource">
+      <publishTime>05/17/2017 00:15:32</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.DeleteContactResponse.datasource">
+      <publishTime>05/17/2017 00:15:45</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.DeleteMessageResponse.datasource">
+      <publishTime>05/17/2017 00:15:42</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.DeleteSiteUserResponse.datasource">
+      <publishTime>05/17/2017 00:15:34</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.FlashSiteUserResponse.datasource">
+      <publishTime>05/17/2017 00:15:35</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.GetAccountInfoResponse.datasource">
+      <publishTime>05/17/2017 00:15:39</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.GetAllSiteUsersResponse.datasource">
+      <publishTime>05/17/2017 00:15:35</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.GetContactsResponse.datasource">
+      <publishTime>05/17/2017 00:15:45</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.GetMessagesResponse.datasource">
+      <publishTime>05/17/2017 00:15:41</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.InsertContactResponse.datasource">
+      <publishTime>05/17/2017 00:15:43</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.LoginResponse.datasource">
+      <publishTime>05/17/2017 00:15:36</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.NewSiteUserResponse.datasource">
+      <publishTime>05/17/2017 00:15:32</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.RechargeResponse.datasource">
+      <publishTime>05/17/2017 00:15:38</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.ResponseInfo.datasource">
+      <publishTime>05/17/2017 00:15:29</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.SendSMSResponse.datasource">
+      <publishTime>05/17/2017 00:15:40</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.SentMessageInfo.datasource">
+      <publishTime>05/17/2017 00:15:31</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.SMSSiteInfo.datasource">
+      <publishTime>05/17/2017 00:15:30</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.SMSSiteUserInfo.datasource">
+      <publishTime>05/17/2017 00:15:28</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.UpdateAccountInfoResponse.datasource">
+      <publishTime>05/17/2017 00:15:38</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.UpdateContactResponse.datasource">
+      <publishTime>05/17/2017 00:15:44</publishTime>
+    </File>
+    <File Include="Service References/SMSLive247API/AgentNetworkManagement.Web.SMSLive247API.UpdateSiteUserResponse.datasource">
+      <publishTime>05/17/2017 00:15:33</publishTime>
+    </File>
+    <File Include="Views/Account/Login.cshtml">
+      <publishTime>10/21/2016 08:23:36</publishTime>
+    </File>
+    <File Include="Views/Account/Register.cshtml">
+      <publishTime>09/30/2016 07:27:05</publishTime>
+    </File>
+    <File Include="Views/FundWallet/Create.cshtml">
+      <publishTime>10/01/2016 19:35:48</publishTime>
+    </File>
+    <File Include="Views/FundWallet/Index.cshtml">
+      <publishTime>10/01/2016 19:35:48</publishTime>
+    </File>
+    <File Include="Views/Home/Histories.cshtml">
+      <publishTime>10/14/2016 02:33:56</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>10/13/2016 02:26:26</publishTime>
+    </File>
+    <File Include="Views/Home/SkIndex.cshtml">
+      <publishTime>10/27/2016 18:45:08</publishTime>
+    </File>
+    <File Include="Views/Home/_AgentDetail.cshtml">
+      <publishTime>10/14/2016 02:33:36</publishTime>
+    </File>
+    <File Include="Views/Home/_TransactionHistories.cshtml">
+      <publishTime>10/14/2016 01:39:40</publishTime>
+    </File>
+    <File Include="Views/Manage/AddPhoneNumber.cshtml">
+      <publishTime>09/28/2016 22:13:31</publishTime>
+    </File>
+    <File Include="Views/Manage/ChangePassword.cshtml">
+      <publishTime>09/28/2016 22:13:31</publishTime>
+    </File>
+    <File Include="Views/Manage/Index.cshtml">
+      <publishTime>09/28/2016 22:13:31</publishTime>
+    </File>
+    <File Include="Views/Manage/ManageLogins.cshtml">
+      <publishTime>09/28/2016 22:13:31</publishTime>
+    </File>
+    <File Include="Views/Manage/SetPassword.cshtml">
+      <publishTime>09/28/2016 22:13:32</publishTime>
+    </File>
+    <File Include="Views/Manage/VerifyPhoneNumber.cshtml">
+      <publishTime>09/28/2016 22:13:32</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>09/28/2016 22:48:53</publishTime>
+    </File>
+    <File Include="Views/Shared/Lockout.cshtml">
+      <publishTime>09/28/2016 22:48:53</publishTime>
+    </File>
+    <File Include="Views/Shared/_BootstrapLayout.cshtml">
+      <publishTime>10/27/2016 18:32:48</publishTime>
+    </File>
+    <File Include="Views/Shared/_ILayout.cshtml">
+      <publishTime>09/28/2016 22:48:53</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout - Copy.cshtml">
+      <publishTime>09/28/2016 22:48:53</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>01/18/2019 10:51:02</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>09/28/2016 22:48:53</publishTime>
+    </File>
+    <File Include="Views/SpatialReportHeatMap/ActivityCluster.cshtml">
+      <publishTime>12/24/2016 20:36:46</publishTime>
+    </File>
+    <File Include="Views/SpatialReportHeatMap/AgentsDistribution.cshtml">
+      <publishTime>10/15/2016 01:16:35</publishTime>
+    </File>
+    <File Include="Views/SpatialReportHeatMap/TransactionsDistribution.cshtml">
+      <publishTime>10/15/2016 01:08:10</publishTime>
+    </File>
+    <File Include="Views/Structure/Area.cshtml">
+      <publishTime>09/30/2016 07:27:05</publishTime>
+    </File>
+    <File Include="Views/Structure/Cluster.cshtml">
+      <publishTime>09/30/2016 07:27:05</publishTime>
+    </File>
+    <File Include="Views/Structure/Delete.cshtml">
+      <publishTime>09/30/2016 07:27:05</publishTime>
+    </File>
+    <File Include="Views/Structure/Index.cshtml">
+      <publishTime>10/12/2016 01:27:40</publishTime>
+    </File>
+    <File Include="Views/Structure/Platform.cshtml">
+      <publishTime>09/30/2016 07:27:05</publishTime>
+    </File>
+    <File Include="Views/Structure/Region.cshtml">
+      <publishTime>09/30/2016 07:27:05</publishTime>
+    </File>
+    <File Include="Views/Structure/State.cshtml">
+      <publishTime>10/12/2016 04:26:50</publishTime>
+    </File>
+    <File Include="Views/Structure/Zone.cshtml">
+      <publishTime>09/30/2016 07:27:05</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Area.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/AssignPlatformManager.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/AssignRole.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/AssignToNetwork.cshtml">
+      <publishTime>10/19/2016 14:23:11</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Cluster.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Create.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Delete.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Details.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Edit.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Index.cshtml">
+      <publishTime>10/01/2016 16:24:51</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Platform.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Region.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/State.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/UserManagement/Zone.cshtml">
+      <publishTime>09/30/2016 14:13:38</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>09/28/2016 22:12:55</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/28/2016 22:12:55</publishTime>
+    </File>
+    <File Include="Web References/com.smslive247.www1/ContactInfo.datasource">
+      <publishTime>05/17/2017 00:07:41</publishTime>
+    </File>
+    <File Include="Web References/com.smslive247.www1/Reference.map">
+      <publishTime>05/17/2017 00:07:29</publishTime>
+    </File>
+    <File Include="Web References/com.smslive247.www1/ResponseInfo.datasource">
+      <publishTime>05/17/2017 00:07:44</publishTime>
+    </File>
+    <File Include="Web References/com.smslive247.www1/SentMessageInfo.datasource">
+      <publishTime>05/17/2017 00:07:42</publishTime>
+    </File>
+    <File Include="Web References/com.smslive247.www1/SMSSiteInfo.datasource">
+      <publishTime>05/17/2017 00:07:43</publishTime>
+    </File>
+    <File Include="Web References/com.smslive247.www1/SMSSiteUserInfo.datasource">
+      <publishTime>05/17/2017 00:07:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/18/2019 10:55:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
